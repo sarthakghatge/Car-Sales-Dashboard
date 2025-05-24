@@ -7,7 +7,7 @@ This repository contains dashboard projects created using **Tableau**
 ## 🖼️ Screenshots
 
 ### Car Sales Dashboard
-< car-sales-dashboard/screenshot.png
+<img src="Screenshot 2025-05-24 170054.png"/>
 
 ## 🔧 Tools Used
 - Tableau
